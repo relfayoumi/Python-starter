@@ -1,7 +1,6 @@
-hello = input("Enter a random word or sequence of words:\t")
+welcome = input("Please type your first name: ")
 
-print("\n" + hello + "\n")
+print("Hello", welcome, "To my first vs code .py file")
 
-print("")
 
-#hello moatazS
+#test
